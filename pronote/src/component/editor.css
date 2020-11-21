@@ -1,0 +1,25 @@
+body{
+    background-color: blue;
+}
+.input{
+    background-color: blue;
+    
+
+}
+.input-text{
+    width: 500px;
+    height: 500px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.output-text{
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    color: blanchedalmond;
+    border-radius: 2px;
+    
+}
